@@ -1,0 +1,10 @@
+ - Model Development
+In this module, you will learn how to define the explanatory variable and the response variable and understand the differences between the simple linear regression and multiple linear regression models. You will learn how to evaluate a model using visualization and learn about polynomial regression and pipelines. You will also learn how to interpret and use the R-squared and the mean square error measures to perform in-sample evaluations to numerically evaluate our model. And lastly, you will learn about prediction and decision making when determining if our model is correct.
+
+ - Learning Objectives:
+Describe how to process linear regression in Python
+Apply model evaluation using visualization in Python
+Apply polynomial regression techniques to Python
+Evaluate a data model by using visualization
+Describe the use of R-squared and MSE for in-sample evaluation
+Apply prediction and decision making to Python model creation
